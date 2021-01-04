@@ -27,10 +27,6 @@ disqusShortname = "yourdiscussshortname"
 
 [menu]
   [[menu.nav]]
-    name = "Blog"
-    url = "/"
-    weight = 1
-  [[menu.nav]]
     name = "Posts"
     url = "/post/"
     weight = 2
